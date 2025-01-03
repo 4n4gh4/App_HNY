@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">hny</string>
+    <string name="greeting1">Merry Christmas!</string>
+    <string name="greeting2">Happy New Year!</string>
+</resources>
